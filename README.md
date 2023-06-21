@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Camilla!
 I'm a librarian who loves everything about technology :)
 
-Skills: HTML / CSS / GIT / BOOTSTRAP.
+Skills: HTML / CSS / JavaScript.
 
 - 🔭 I’m currently working on SESI/PE 
 - 😄 Pronouns: she/her 
